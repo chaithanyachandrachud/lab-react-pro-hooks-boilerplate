@@ -1,12 +1,14 @@
 h1,h2{
-  color:rgb(241, 154, 154);
+  color:chartreuse;
   text-align: center;
 }
 
 .page{
-  margin-left: 500px;
+  margin-left:  350px;
   margin-top: 50px;
   height: 500px;
   width: 500px;
 }
-
+body{
+  background-color: aquamarine;
+}
